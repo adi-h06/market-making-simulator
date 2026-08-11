@@ -12,29 +12,29 @@ It is possible for the underlying asset to experience a jump, and informed trade
 ## Results
 
 ### Seed 1
-Jump events: 0
-Final PnL: $131.13 
-Spread PnL: $14.71
-Final Delta: 3.65
-Final Gamma: 0.14
+- Jump events: 0
+- Final PnL: $131.13 
+- Spread PnL: $14.71
+- Final Delta: 3.65
+- Final Gamma: 0.14
 
 ![Seed 1](results/seed_1_run.png)
 
 ### Seed 5
-Jump events: 1
-Final PnL: -$43.20 
-Spread PnL: $16.57
-Final Delta: 0.55
-Final Gamma: -0.03
+- Jump events: 1
+- Final PnL: -$43.20 
+- Spread PnL: $16.57
+- Final Delta: 0.55
+- Final Gamma: -0.03
 
 ![Seed 5](results/seed_5_run.png)
 
 ### Seed 10
-Jump events: 1
-Final PnL: $134.95 
-Spread PnL: $124.38
-Final Delta: -0.01
-Final Gamma: -0.21
+- Jump events: 1
+- Final PnL: $134.95 
+- Spread PnL: $124.38
+- Final Delta: -0.01
+- Final Gamma: -0.21
 
 ![Seed 10](results/seed_10_run.png)
 
